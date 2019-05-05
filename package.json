@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "marked": "^0.6.2",
+    "axios": "^0.18.0",
+    "lodash": "^4.17.11",
+    "qs": "latest"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.7.0",
